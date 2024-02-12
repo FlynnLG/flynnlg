@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm FlynnLG</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm FlynnLG.</h1></summary>
   </ul>
 </div>
 
@@ -25,7 +25,7 @@
   
 🔭 I’m currently working on **[FlynnLG.DE](https://www.FlynnLG.de)** and **[EVI-Manager](https://github.com/FlynnLG/evi-manager)**.
   
-🌱 I’m currently learning **React** and **ABAP** to broaden my horizon and improve my and other project.
+🌱 I’m currently learning **React** and **ABAP** to broaden my horizon and improve my and other projects.
   
 📱 Currently I‘m interested in app development. So, I'm learning **React**.
   
